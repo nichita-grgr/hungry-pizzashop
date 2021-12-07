@@ -72,15 +72,7 @@ npm run data:import
 
 # Destroy data
 npm run data:destroy
-```
-```
-Sample login credentials:
 
-shahnewaztamim@gmail.com (Admin)
-123456
-
-faruque@gmail.com
-123456
 ```
 
 

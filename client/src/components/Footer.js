@@ -65,7 +65,7 @@ const Footer = () => {
         <Row>
           <Col className='text-center pt-3 mt-5'>
             Copyright &copy; Firehouse Pizza Shop <br />
-            Shahnewaz Tameem All rights reserved
+            Nichita Grigoriev All rights reserved
           </Col>
         </Row>
       </Container>
